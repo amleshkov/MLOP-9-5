@@ -16,8 +16,6 @@
 - Nginx - статистика сервиса Nginx
 
 ### Описание дашборда Docker Containers
-
-IMAGE
 - CPU Load - нагрузка на CPU
 - CPU Cores - количество ядер
 - Memory Load - объем занятой RAM %
@@ -32,3 +30,4 @@ IMAGE
 - Container Cached Memory Usage - график объема кеша для контейнеров
 - Container Network Input - график нагрузки на сеть для контейнеров Input
 - Container Network Output - график нагрузки на сеть для контейнеров Otput
+![https://github.com/amleshkov/MLOP-9-5/blob/4c7a74e9432b8f0aae71bc713fc1bef73d1e020a/dashboard.png](https://github.com/amleshkov/MLOP-9-5/blob/4c7a74e9432b8f0aae71bc713fc1bef73d1e020a/dashboard.png)
